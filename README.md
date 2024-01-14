@@ -2,7 +2,7 @@
 - 👀 I’m interested in people✓ ...
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on beginner friendly codebases(for now)...
-- 📫 How to reach me ...mehulyadav432@gmail.com 
+- 📫 How to reach me ... mehulyadav432@gmail.com 
 - 😄 Pronouns: ...Normal ones
 
 <!---
