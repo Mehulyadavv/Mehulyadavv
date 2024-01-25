@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on beginner friendly codebases(for now)...
 - 📫 How to reach me ... mehulyadav432@gmail.com 
-- 😄 Pronouns: ...Normal ones
+
 
 <!---
 Mehulyadavv/Mehulyadavv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
