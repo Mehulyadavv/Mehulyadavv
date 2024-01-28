@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mehulyadavv
-- 👀 I’m interested in success ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on beginner friendly codebases(for now)...
+- 👀 I’m interested in laerning everything I can about hardware and software  ...
+- 🌱 I’m currently learning C++ and planning to explore ML , GameDev and a lot  more in upcoming year. 
+
 - 📫 How to reach me ... mehulyadav432@gmail.com 
 
 
