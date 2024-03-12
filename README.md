@@ -2,7 +2,7 @@
 - 👀 I’m interested in laerning everything I can about hardware and software  ...
 - 🌱 I’m currently learning C++ and planning to explore ML , GameDev and a lot  more in upcoming year. 
 
-- 📫 How to reach me ... mehulyadav432@gmail.com 
+- 📫 How to reach me ... amehulyadav@gmail.com 
 
 
 <!---
